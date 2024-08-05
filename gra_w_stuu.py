@@ -28,7 +28,7 @@ def cos():
             print("za dużo stuu nie lubi takich")
         else:
             zgadniencie_cwela = True
-            print(f"Gratulacje! obliczyłeś to jakoś XD Wiek hot dziewczyny stuu był {zagadka} w {szansze_ostateczne} próbach.")
+            print(f"Gratulacje! obliczyłeś to jakoś XD Wiek hot dziewczyny stuu to był {zagadka}, i zrobiłeś to w  {szansze_ostateczne} próbach")
 
 if __name__ == "__main__":
     cos()
